@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/db" android:title="Dashboard"/>
+    <item android:id="@+id/event" android:title="Event"/>
+    <item android:id="@+id/search" android:title="Search"/>
+    <item android:id="@+id/Setting" android:title="Setting"/>
+    <item android:id="@+id/activities" android:title="Activities"/>
+    <item android:id="@+id/logout" android:title="Logout"/>
+    <item android:title="others">
+        <menu>
+            <item android:id="@+id/Setting1" android:title="Setting1"/>
+            <item android:id="@+id/activities1" android:title="Activities1"/>
+            <item android:id="@+id/logout1" android:title="Logout1"/>
+        </menu>
+    </item>
+</menu>
